@@ -1,2 +1,2 @@
-spring.profiles.include: azure,logging
-name: cook-app-one
+spring.profiles.include: gcp,logging
+name: cook-app-arul
